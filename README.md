@@ -2,9 +2,9 @@
 
 ## 🏀 Project Overview
 Advanced analytics system that:
-- Predicts player performance with 20% improved accuracy
-- Identifies undervalued players for contract negotiations
-- Generates actionable insights for team management
+- Predicts player performance with 15% improved accuracy
+- Built Power BI dashboard on performance vs. salary, revealing 4 undervalued players for review.
+- Delivered 3 insights to mock front office, showing how modeling supports salary and trade decisions.
 
 ## 🚀 Quick Start
 
